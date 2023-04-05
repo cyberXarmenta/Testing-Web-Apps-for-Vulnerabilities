@@ -18,7 +18,7 @@ Topics Covered:
 
 
 <h2>Scenario</h2>
-I'm an Application Security Engineer for the bioengineering company, Replicants. Replicants have created several new web applications and would like me to test them for vulnerabilities. Additionally, my manager would like me to test a tool called <i><b>BeEF</b></i> in order to understand the impact it could have on the organization if Replicants were targeted with this tool. 
+I'm an Application Security Engineer for the bioengineering company, Replicants. Replicants has created several new web applications and would like me to test them for vulnerabilities. Additionally, my manager would like me to test a tool called <i><b>BeEF</b></i> in order to understand the impact it could have on the organization if Replicants were targeted with this tool. 
 
 <h2>Assignment Link:</h2>
 
